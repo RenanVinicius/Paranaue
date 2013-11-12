@@ -1,3 +1,7 @@
 <?php
-  echo "ola mundo";
+  if($paranaue == "Código Sarandi"){
+      return "Corre Negada";
+    }else{
+      return "Death";
+    }
 ?>
